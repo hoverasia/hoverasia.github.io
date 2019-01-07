@@ -2964,28 +2964,17 @@ body {
   padding-bottom: 135px;
   background-image: url("../../../assets/images/dji-5-2000x1500.jpg");
 }
-.cid-reu3f5cKfV {
-  padding-top: 45px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
+.cid-reutjQd1bl {
+  padding-top: 60px;
+  padding-bottom: 120px;
+  background: linear-gradient(0deg, #ffffff, #ffffff);
 }
-.cid-reu3f5cKfV [class^="socicon-"]:before,
-.cid-reu3f5cKfV [class*=" socicon-"]:before {
-  line-height: 44px;
+.cid-reutjQd1bl .mbr-iconfont-social {
+  font-size: 32px;
+  color: #24245a;
 }
-.cid-reu3f5cKfV .btn-social {
-  border-color: #149dcc;
-}
-.cid-reu3f5cKfV .btn-social:hover {
-  background: #149dcc;
-}
-.cid-reu3f5cKfV .btn-social:hover i.socicon {
-  color: #ffffff !important;
-}
-@media (max-width: 767px) {
-  .cid-reu3f5cKfV .btn {
-    font-size: 20px !important;
-  }
+.cid-reutjQd1bl .social-list a:focus {
+  text-decoration: none;
 }
 .cid-reu4kqhs2j {
   padding-top: 60px;
